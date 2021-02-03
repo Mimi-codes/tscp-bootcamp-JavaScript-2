@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+
+.outer{
+    position:fixed;
+    top:0;
+    left:0;
+    width:100%;
+    height:100%;
+    background: orange;
+  }
+
+  #output{
+    width: 50%;
+    height: 50%;
+    top: 25%;
+    margin: 0 auto;
+    position: relative;
+    background: white;
+  }
+
+  #plane{
+    width: 22%;
+    height: 7%;
+    top: 25%;
+    margin: 1% auto;
+    position: relative;
+    background: white;
+  }
+
+  .fab{
+      color: white;
+      margin: 0;
+  }
+
+  button{
+      background: orange;
+      border: none;
+      padding-top: 3%;
+    padding-bottom: 3%;
+    padding-left: 2%;
+    padding-right: 2%;
+    margin-top: 4%;
+  }
+
+  #btn{
+    padding-left: 2%;
+    padding-right: 2%;
+    background-color: orange;
+    color: white;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    float: right;
+    margin-right: 8%;
+    margin-top: 3%;
+    cursor: pointer;
+    border: none;
+}
+
+#bird{
+    margin-left: 10%;
+}
