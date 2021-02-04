@@ -1,4 +1,4 @@
-//body tag font change
+//body tag styling
 const body = document.querySelector('body');
 body.style.fontFamily = 'Arial, sansSerif';
 body.style.textAlign = 'center';
