@@ -14,7 +14,7 @@ function f2(val) {
 f2(y);
 console.log(y);
 
-/*
+/* OUTPUT GUESS AND REASON
 - The output of the function 'f1(x)' is 10 because the function parameter (val which takes the value 
 of the global scope variable (i.e. x ) + 1 which is 10 equals the value/result of (val = val + 1).
 
